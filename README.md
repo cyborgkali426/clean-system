@@ -1,4 +1,4 @@
-# clean-system
+# clean-system (Cleaning up the operating system)
 Total cleaning of the operating system
 
 The user has two options for running the bash program. Either run as `root` or `sudo`.
